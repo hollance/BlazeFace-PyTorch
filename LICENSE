@@ -1,0 +1,5 @@
+Conversion of BlazeFace from TFLite to PyTorch done by Matthijs Hollemans
+in December 2019. Website: https://machinethink.net
+
+This work is licensed under the same terms as MediaPipe (Apache License 2.0)
+https://github.com/google/mediapipe/blob/master/LICENSE
